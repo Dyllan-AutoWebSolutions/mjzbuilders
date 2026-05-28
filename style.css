@@ -520,7 +520,7 @@ p {
 }
 .hero h1 em {
   font-style: normal;
-  color: var(--gold);
+  color: white;
   display: block;
 }
 
@@ -656,6 +656,7 @@ p {
   font-size: 3.2rem;
   font-weight: 900;
   color: var(--off-white);
+   color: rgba(190, 139, 41, 0.15);
   line-height: 1;
   margin-bottom: 20px;
   letter-spacing: -0.04em;
